@@ -1,0 +1,8 @@
+export {default as Header} from './Header.jsx'
+export {default as Adv} from './Adv.jsx'
+export {default as Consult} from './Consult.jsx'
+export {default as Count} from './Count.jsx'
+export {default as Footer} from './Footer.jsx'
+export {default as How} from './How.jsx'
+export {default as Join} from './Join.jsx'
+export {default as Main} from './Main.jsx'
