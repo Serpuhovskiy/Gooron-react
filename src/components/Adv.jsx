@@ -6,8 +6,7 @@ function Adv() {
         <div className="adv__wrapper">
           <div className="adv__title">
             <h3>
-              Что делает <span className="gooron-span">Gooron</span>
-              особенной платформой
+              Что делает <span className="gooron-span">Gooron</span> особенной платформой
             </h3>
           </div>
           <div className="adv__list">
