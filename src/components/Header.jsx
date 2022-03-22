@@ -50,14 +50,15 @@ function Header() {
 
           <ul className="menu__box">
             <li>
-              <a className="menu__item" href="#">
+              
+              <Link to="/registration" className="menu__item" href="#">
                 Регистрация
-              </a>
+              </Link>
             </li>
             <li>
-              <a className="menu__item" href="#">
+              <Link to="/login" className="menu__item" href="#">
                 Вход
-              </a>
+              </Link>
             </li>
             <div className="decor-line"></div>
             <li>
